@@ -1,4 +1,4 @@
-# gh:solana-foundation/templates/web3js/web3js-next-tailwind-basic
+# Auctions on-chain (web3js-next-tailwind-basic)
 
 This is a Next.js app containing:
 
